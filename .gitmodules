@@ -1,0 +1,6 @@
+[submodule "UCP3"]
+	path = UCP3
+	url = https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch3
+[submodule "GUI"]
+	path = GUI
+	url = https://github.com/UnofficialCrusaderPatch/UCP3-GUI
