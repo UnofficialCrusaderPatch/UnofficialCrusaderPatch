@@ -3,7 +3,8 @@
 
 ## Project
 
-This project is an unofficial patcher for [Firefly Studio's](https://fireflyworlds.com/) game Stronghold Crusader 1. It features bug-fixes, balancing and quality-of-life changes, as well as several AIV castles. To apply this patch you need to have Stronghold Crusader installed, the setup does not include any files created by FireFly Studios, but instead edits them or adds community-made files. Further information can be found on our official [website](https://unofficialcrusaderpatch.github.io/).
+This project is an unofficial patcher for [Firefly Studio's](https://fireflyworlds.com/) game Stronghold Crusader 1. It features a framework to apply community bug-fixes, rebalancing unit stats, and quality-of-life changes, as well as provide new content such as maps 
+and AI. To apply this patch you need to have Stronghold Crusader installed, the setup does not include any files created by FireFly Studios, but instead edits them or adds community-made files. Further information can be found on our official [website](https://unofficialcrusaderpatch.github.io/).
 
 ## Installation
 
