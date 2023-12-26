@@ -1,2 +1,67 @@
-# UnofficialCrusaderPatch-new
-Unofficial patch for Stronghold Crusader 1
+# Unofficial Crusader Patch  [![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/N4UVjZBRXU)
+
+
+## Project
+
+This project is an unofficial patcher for [Firefly Studio's](https://fireflyworlds.com/) game Stronghold Crusader 1. It features bug-fixes, balancing and quality-of-life changes, as well as several AIV castles. To apply this patch you need to have Stronghold Crusader installed, the setup does not include any files created by FireFly Studios, but instead edits them or adds community-made files. Further information can be found on our official [website](https://unofficialcrusaderpatch.github.io/).
+
+## Installation
+
+To install the patch we recommend you download the latest [release](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases), unzip it and run the GUI.
+
+In the GUI, select your Stronghold Crusader 1 game folder (making a copy of this folder to a different location is recommended). Then, proceed with installing the patching materials (UCP3 zip).
+To get you started, it is recommended to select the UCP2-legacy plugin which configures recommended settings. 
+
+The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html).
+
+## Issues and Suggestions
+
+If you have suggestions, you are welcome to post new ideas or discuss already existing ones in the [issues section](https://github.com/Sh0wdown/UnofficialCrusaderPatch/issues). It would be great if you could follow these guidelines:
+
+- try to only post one idea per issue to help us keep an overview
+- try to check if your suggestion already has a topic and join that discussion instead of creating a new one
+- keep the tone nice and civil  
+
+Furthermore you can join our [Discord Server](https://discord.gg/N4UVjZBRXU) for quick help and feedback.
+
+
+## The team behind the UCP
+
+### Original creator of the UCP
+[Sh0wdown](https://github.com/Sh0wdown)  
+
+### Creators of UCP 3
+[gynt](https://github.com/gynt)  
+[TheRedDaemon](https://github.com/thereddaemon)
+
+### Project Management
+[Kimberly Azula](https://github.com/ByBurton/)  
+[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)
+
+### Developers
+[gynt](https://github.com/gynt)
+[TheRedDaemon](https://github.com/thereddaemon)
+[Le spec](https://github.com/LeSpec)
+[Corax](https://github.com/Corax34)
+[LordHansCapon](https://github.com/LordHansCapon)  
+[J-T-de](https://github.com/J-T-de)  
+[Chaf1812](https://github.com/Chaf1812)  
+[np123](https://github.com/patel-nikhil)  
+
+### Translators
+[Lutel (YouTube)](https://www.youtube.com/user/MrLutel05) (Polish)  
+[Lolasik011](https://github.com/Lolasik011) (Russian)  
+[Skysouls (e-mail)](mailto:theskysoul@vip.qq.com) (Chinese)  
+[Liegav (YouTube)](https://www.youtube.com/channel/UCFqQMKfYgGb7iFKJagQl_wA) (Hungarian)
+
+### Content Creators   
+[Evrey](https://github.com/Evrey) (aiv)  
+[Tatha](https://www.youtube.com/channel/UC4BrhBzHp1ymnczlkdKcSkg) (aiv,aic)  
+[PitchNeeded](https://github.com/PitchNeeded) (aiv)  
+[Xander10alpha](https://github.com/Xander10alpha) (aic)  
+[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)
+
+### Special thanks of course go to  
+[Firefly Studios](https://fireflyworlds.com/) for the creation of the Stronghold series  
+
+And many more  
