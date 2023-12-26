@@ -22,7 +22,7 @@ The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Ex
 
 ## Issues and Suggestions
 
-If you have suggestions, you are welcome to post new ideas or discuss already existing ones in the [issues section](https://github.com/Sh0wdown/UnofficialCrusaderPatch/issues). It would be great if you could follow these guidelines:
+If you have suggestions, you are welcome to post new ideas or discuss already existing ones in the [issues section](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/issues). It would be great if you could follow these guidelines:
 
 - try to only post one idea per issue to help us keep an overview
 - try to check if your suggestion already has a topic and join that discussion instead of creating a new one
@@ -30,6 +30,14 @@ If you have suggestions, you are welcome to post new ideas or discuss already ex
 
 Furthermore you can join our [Discord Server](https://discord.gg/N4UVjZBRXU) for quick help and feedback.
 
+## Contributing
+If you want to contribute modifications to the game, you can contribute to the [GUI](https://github.com/UnofficialCrusaderPatch/UCP3-GUI).
+
+If you want to contribute modifications to the game, you can contribute to [UCP3](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch3).
+
+If you want to contribute content for the game, you can create and share your own plugin extensions.
+
+Are you considering to contribute? Join our [Discord Server](https://discord.gg/N4UVjZBRXU) for help.
 
 ## The team behind the UCP
 
