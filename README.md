@@ -15,6 +15,11 @@ To get you started, it is recommended to select the UCP2-legacy plugin which con
 
 The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html).
 
+#### Glossary of important terms
+- GUI: The graphical user interface through which you can customize your configuration.
+- UCP3: The modding framework
+- Extensions: Modifications to the game code and content are provided through extensions. Modules are for game code modifications and new features, plugins carry content and configurations (maps, AI, gameplay setups).
+
 ## Issues and Suggestions
 
 If you have suggestions, you are welcome to post new ideas or discuss already existing ones in the [issues section](https://github.com/Sh0wdown/UnofficialCrusaderPatch/issues). It would be great if you could follow these guidelines:
