@@ -1,9 +1,9 @@
 # Unofficial Crusader Patch  [![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/N4UVjZBRXU)
 
 
-## Project
+## About the UCP
 
-This project is an unofficial patcher for [Firefly Studio's](https://fireflyworlds.com/) game [Stronghold Crusader 1](https://store.steampowered.com/app/40970/Stronghold_Crusader_HD/). It features a framework to apply community bug-fixes, rebalancing unit stats, and quality-of-life changes, as well as provide new content such as maps 
+This project is an unofficial patcher for [Firefly Studio's](https://fireflyworlds.com/) game [Stronghold Crusader 1](https://store.steampowered.com/app/40970/Stronghold_Crusader_HD/). It features a framework to apply community bug-fixes, rebalancing unit stats, and quality-of-life changes, as well as to provide new content such as maps 
 and AI. To apply this patch you need to have Stronghold Crusader installed, the setup does not include any files created by FireFly Studios, but instead edits them or adds community-made files. Further information can be found on our official [website](https://unofficialcrusaderpatch.github.io/).
 
 ## Installation
@@ -45,16 +45,9 @@ Are you considering to contribute? Join our [Discord Server](https://discord.gg/
 
 ## The team behind the UCP
 
-### Original creator of the UCP
-[Sh0wdown](https://github.com/Sh0wdown)  
-
 ### Creators of UCP 3
 [gynt](https://github.com/gynt)  
 [TheRedDaemon](https://github.com/thereddaemon)
-
-### Project Management
-[Kimberly Azula](https://github.com/ByBurton/)  
-[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)
 
 ### Developers
 [gynt](https://github.com/gynt)
@@ -71,6 +64,13 @@ Are you considering to contribute? Join our [Discord Server](https://discord.gg/
 [Lolasik011](https://github.com/Lolasik011) (Russian)  
 [Skysouls (e-mail)](mailto:theskysoul@vip.qq.com) (Chinese)  
 [Liegav (YouTube)](https://www.youtube.com/channel/UCFqQMKfYgGb7iFKJagQl_wA) (Hungarian)
+
+### Creator of the original UCP
+[Sh0wdown](https://github.com/Sh0wdown)  
+
+### Community Management
+[Kimberly Azula](https://github.com/ByBurton/)  
+[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)
 
 ### Content Creators   
 [Evrey](https://github.com/Evrey) (aiv)  
