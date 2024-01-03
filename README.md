@@ -45,9 +45,17 @@ Are you considering to contribute? Join our [Discord Server](https://discord.gg/
 
 ## The team behind the UCP
 
-### Creators of UCP 3
+### Creators of the UCP 3 framework
 [gynt](https://github.com/gynt)  
 [TheRedDaemon](https://github.com/thereddaemon)
+[Corax](https://github.com/Corax34)
+[Le spec](https://github.com/LeSpec)
+
+### Creators of the GUI
+[gynt](https://github.com/gynt)  
+[TheRedDaemon](https://github.com/thereddaemon)
+[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)
+[Monsterfisch](https://github.com/Monsterfisch)
 
 ### Developers
 [gynt](https://github.com/gynt)
@@ -58,6 +66,8 @@ Are you considering to contribute? Join our [Discord Server](https://discord.gg/
 [J-T-de](https://github.com/J-T-de)  
 [Chaf1812](https://github.com/Chaf1812)  
 [np123](https://github.com/patel-nikhil)  
+[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)
+[Monsterfisch](https://github.com/Monsterfisch)
 
 ### Translators
 [Lutel (YouTube)](https://www.youtube.com/user/MrLutel05) (Polish)  
