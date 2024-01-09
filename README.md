@@ -63,7 +63,7 @@ Are you considering to contribute? Join our [Discord Server](https://discord.gg/
 [Monsterfisch](https://github.com/Monsterfisch)  
 
 ### Developers
-[gynt](https://github.com/gynt)  
+[Gynt](https://github.com/gynt)  
 [TheRedDaemon](https://github.com/thereddaemon)  
 [Le spec](https://github.com/LeSpec)  
 [Corax](https://github.com/Corax34)  
