@@ -52,27 +52,27 @@ Are you considering to contribute? Join our [Discord Server](https://discord.gg/
 
 ### Creators of the UCP 3 framework
 [gynt](https://github.com/gynt)  
-[TheRedDaemon](https://github.com/thereddaemon)
-[Corax](https://github.com/Corax34)
-[Le spec](https://github.com/LeSpec)
+[TheRedDaemon](https://github.com/thereddaemon)  
+[Corax](https://github.com/Corax34)  
+[Le spec](https://github.com/LeSpec)  
 
 ### Creators of the GUI
 [gynt](https://github.com/gynt)  
-[TheRedDaemon](https://github.com/thereddaemon)
-[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)
-[Monsterfisch](https://github.com/Monsterfisch)
+[TheRedDaemon](https://github.com/thereddaemon)  
+[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)  
+[Monsterfisch](https://github.com/Monsterfisch)  
 
 ### Developers
-[gynt](https://github.com/gynt)
-[TheRedDaemon](https://github.com/thereddaemon)
-[Le spec](https://github.com/LeSpec)
-[Corax](https://github.com/Corax34)
+[gynt](https://github.com/gynt)  
+[TheRedDaemon](https://github.com/thereddaemon)  
+[Le spec](https://github.com/LeSpec)  
+[Corax](https://github.com/Corax34)  
 [LordHansCapon](https://github.com/LordHansCapon)  
 [J-T-de](https://github.com/J-T-de)  
 [Chaf1812](https://github.com/Chaf1812)  
 [np123](https://github.com/patel-nikhil)  
-[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)
-[Monsterfisch](https://github.com/Monsterfisch)
+[Krarilotus (YouTube)](https://www.youtube.com/channel/UCMXHqa2vmclSoSkuCu_q5rw)  
+[Monsterfisch](https://github.com/Monsterfisch)  
 
 ### Translators
 [Lutel (YouTube)](https://www.youtube.com/user/MrLutel05) (Polish)  
