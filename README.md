@@ -10,14 +10,15 @@ and AI. To apply this patch you need to have Stronghold Crusader installed, the 
 
 ## Installation
 
-To install the patch we recommend you download the latest [release](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases).
+To install the patch we recommend you download the [GUI](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases).
 
-1. Unzip it to a folder of choice and run the GUI.
-2. In the GUI, select your Stronghold Crusader 1 game folder (making a copy of this folder to a different location is recommended).
-3. Then, proceed with installing the patching materials (UCP3 zip).
-4. To get you started, it is recommended to select the UCP2-legacy plugin which configures recommended settings.
-5. Launch the game by launching the original .exe file or launch it from the GUI itself.
-6. Enjoy!
+1. Run the GUI.
+2. In the GUI, select your Stronghold Crusader 1 game folder.
+3. Then, press the button to install the latest patching materials to this game folder.
+4. To get you started, it is recommended to select the UCP2-legacy plugin which configures recommended settings you might be familiar with from UCP 2.
+5. Hit the Apply button to save the configuration to disk.
+6. Launch the game by going to the Launch tab and clicking an icon, by launching the original .exe file, or launch it via Steam.
+7. Enjoy!
 
 The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html).
 
