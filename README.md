@@ -15,16 +15,16 @@ To install the patch we recommend you download the [GUI](https://github.com/Unof
 1. Run the GUI.
 2. In the GUI, select your Stronghold Crusader 1 game folder.
 3. Then, press the button to install the latest patching materials to this game folder.
-4. To get you started, it is recommended to select the UCP2-legacy plugin which configures recommended settings you might be familiar with from UCP 2.
+4. To get you started, it is recommended to select the UCP2-legacy-defaults plugin which configures recommended settings you might be familiar with from UCP 2.
 5. Hit the Apply button to save the configuration to disk.
-6. Launch the game by going to the Launch tab and clicking an icon, by launching the original .exe file, or launch it via Steam.
+6. Launch the game by going to the Launch tab and clicking an icon. You can also launch the game outside of the GUI by launching the original .exe file, or launch it via Steam.
 7. Enjoy!
 
-The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html).
+The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
 
 #### Glossary of important terms
-- GUI: The graphical user interface through which you can customize your configuration.
-- UCP3: The modding framework
+- Frontend: GUI aka the graphical user interface through which you can customize your configuration.
+- Framework: UCP3 aka The modding framework
 - Extensions: Modifications to the game code and content are provided through extensions. Modules are for game code modifications and new features, plugins carry content and configurations (maps, AI, gameplay setups).
 
 ## Issues and Suggestions
@@ -44,7 +44,7 @@ If you want to contribute modifications to the user interface, you can contribut
 
 If you want to contribute modifications to the game, you can contribute to [UCP3](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch3).
 
-If you want to contribute content for the game, you can create and share your own plugin extensions.
+If you want to contribute content for the game, you can create and share your own plugin extensions. Note, that it is planned to automate and integrate the process of sharing your content within the GUI itself, for that make sure you follow the plugin structure.
 
 Are you considering to contribute? Join our [Discord Server](https://discord.gg/N4UVjZBRXU) for help.
 
