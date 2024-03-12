@@ -26,11 +26,11 @@ The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Ex
 
 #### Glossary of important terms
 - _Frontend_ 
-GUI aka the graphical user interface through which you can customize your configuration.
+  GUI aka the graphical user interface through which you can customize your configuration.
 - _Framework_
-UCP3 aka The modding framework
+  UCP3 aka The modding framework
 - _Extensions_
-Modifications to the game code and content are provided through extensions. Modules are for game code modifications and new features, plugins carry content and configurations (maps, AI, gameplay setups).
+  Modifications to the game code and content are provided through extensions. Modules are for game code modifications and new features, plugins carry content and configurations (maps, AI, gameplay setups).
 
 ## Issues and Suggestions
 
