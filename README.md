@@ -1,7 +1,7 @@
 # Unofficial Crusader Patch 3  [![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/N4UVjZBRXU)
 **UCP 3.0 has been released! Get it [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases)!** :tada:
 
-Are you looking for the previous version of the patch (UCP2)? That repo has moved to [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch2/). Don't worry, we are still reading and considering all issues reported with the previous version.
+Are you looking for the previous version of the patch (UCP2)? That repo has moved to [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch2/). Don't worry, we are still reading and considering all reported issues with the previous version and suggestions for features and improvements.
 
 ## About the UCP
 
