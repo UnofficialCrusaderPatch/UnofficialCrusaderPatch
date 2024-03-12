@@ -3,16 +3,16 @@
 
 <img src="https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch-new/assets/4720007/2ff171cd-ef67-499b-9452-e8ddd49198f6" width="600" />
 
-Are you looking for the previous version of the patch (UCP2)? That repo has moved to [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch2/). Don't worry, we are still reading and considering all reported issues with the previous version and suggestions for features and improvements.
-
 ## About the UCP
 
-This project is an unofficial patcher for [Firefly Studio's](https://fireflyworlds.com/) game [Stronghold Crusader 1](https://store.steampowered.com/app/40970/Stronghold_Crusader_HD/). It features a framework to apply community bug-fixes, rebalancing unit stats, and quality-of-life changes, as well as to provide new content such as maps 
-and AI. To apply this patch you need to have Stronghold Crusader installed, the setup does not include any files created by FireFly Studios, but instead edits them or adds community-made files. Further information can be found on our official [website](https://unofficialcrusaderpatch.github.io/).
+This project is an unofficial patcher for [Firefly Studio's](https://fireflyworlds.com/) game [Stronghold Crusader 1](https://store.steampowered.com/app/40970/Stronghold_Crusader_HD/). It features a framework to apply community bug-fixes, rebalancing unit stats, and quality-of-life changes, as well as to provide new content such as maps and AI. To apply this patch you need to have Stronghold Crusader installed, the setup does not include any files created by FireFly Studios, but instead edits them or adds community-made files. Further information can be found on our official [website](https://unofficialcrusaderpatch.github.io/).
+
+##### UCP Legacy
+Are you looking for the previous version of the patch (UCP2)? That repo has moved to [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch2/). Don't worry, we are still reading and considering all reported issues with the previous version and suggestions for features and improvements.
 
 ## Installation
 
-To install the patch we recommend you download the [GUI](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases).
+To install the patch we recommend to download the [GUI](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases).
 
 1. Run the GUI.
 2. In the GUI, select your Stronghold Crusader 1 game folder.
@@ -25,9 +25,12 @@ To install the patch we recommend you download the [GUI](https://github.com/Unof
 The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
 
 #### Glossary of important terms
-- Frontend: GUI aka the graphical user interface through which you can customize your configuration.
-- Framework: UCP3 aka The modding framework
-- Extensions: Modifications to the game code and content are provided through extensions. Modules are for game code modifications and new features, plugins carry content and configurations (maps, AI, gameplay setups).
+- _Frontend_ 
+GUI aka the graphical user interface through which you can customize your configuration.
+- _Framework_
+UCP3 aka The modding framework
+- _Extensions_
+Modifications to the game code and content are provided through extensions. Modules are for game code modifications and new features, plugins carry content and configurations (maps, AI, gameplay setups).
 
 ## Issues and Suggestions
 
