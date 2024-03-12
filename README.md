@@ -25,11 +25,11 @@ To install the patch we recommend to download the [GUI](https://github.com/Unoff
 The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
 
 #### Glossary of important terms
-- _Frontend_ 
+- _Frontend_   
   GUI aka the graphical user interface through which you can customize your configuration.
-- _Framework_
+- _Framework_   
   UCP3 aka The modding framework
-- _Extensions_
+- _Extensions_   
   Modifications to the game code and content are provided through extensions. Modules are for game code modifications and new features, plugins carry content and configurations (maps, AI, gameplay setups).
 
 ## Issues and Suggestions
