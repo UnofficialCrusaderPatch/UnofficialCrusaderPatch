@@ -24,6 +24,9 @@ To install the patch we recommend to download the [GUI](https://github.com/Unoff
 
 The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
 
+## Wiki
+There is a wiki here specifically for the modding framework: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch3/wiki
+
 #### Glossary of important terms
 - _Frontend_   
   GUI aka the graphical user interface through which you can customize your configuration.
