@@ -12,15 +12,18 @@ Are you looking for the previous version of the patch (UCP2)? That repo has move
 
 ## Installation
 
-To install the patch we recommend to download the [GUI](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases).
+To install the patch we recommend to download the [GUI](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases).  
+Installation is done in two parts, first we install the GUI, then from the GUI, we install the new UCP3 modding framework.
 
-1. Run the GUI.
-2. In the GUI, select your Stronghold Crusader 1 game folder.
-3. Then, press the button to install the latest patching materials to this game folder.
-4. To get you started, it is recommended to select the UCP2-legacy-defaults plugin which configures recommended settings you might be familiar with from UCP 2.
-5. Hit the Apply button to save the configuration to disk.
-6. Launch the game by going to the Launch tab and clicking an icon. You can also launch the game outside of the GUI by launching the original .exe file, or launch it via Steam.
-7. Enjoy!
+1. Download and run the GUI installer.
+2. Keep the recommended folder selected for installation (i.e., AppData\Local). If you run into issues, check the FAQ.
+3. When installation is finished, run the GUI.
+4. In the GUI, select your Stronghold Crusader 1 game folder.
+5. Then, press the button to install the latest version of the modding framework to this game folder.
+6. To get you started, it is recommended to activate the UCP2-legacy-defaults extension which configures recommended settings you might be familiar with from UCP 2.
+7. Hit the Apply button to save the configuration to disk.
+8. Launch the game by going to the Launch tab and clicking an icon. You can also launch the game outside of the GUI by launching the original .exe file, or launch it via Steam.
+9. Enjoy!
 
 ## FAQ (and Frequently Encountered Issues)
 ### GUI does not run
