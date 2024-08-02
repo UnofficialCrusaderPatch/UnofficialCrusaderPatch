@@ -32,7 +32,7 @@ Make sure you have installed [Webview2](https://developer.microsoft.com/en-us/mi
 ### 2. The game reports errors on launch
 If they are about "AOB" then you are likely running an unsupported version.
 
-The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
+The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Latin languages) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
 
 ### 3. The game does not run at all (no window) when the modding framework is installed
 Make sure you have installed [Microsoft's Visual C++ for x86](https://aka.ms/vs/17/release/vc_redist.x86.exe).
