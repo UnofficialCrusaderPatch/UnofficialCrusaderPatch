@@ -26,15 +26,15 @@ Installation is done in two parts, first we install the GUI, then from the GUI, 
 9. Enjoy!
 
 ## FAQ (and Frequently Encountered Issues)
-### GUI does not run
+### 1. GUI does not run
 Make sure you have installed [Webview2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
 
-### The game reports errors on launch
+### 2. The game reports errors on launch
 If they are about "AOB" then you are likely running an unsupported version.
 
 The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Extreme) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
 
-### The game does not run at all (no window) when the modding framework is installed
+### 3. The game does not run at all (no window) when the modding framework is installed
 Make sure you have installed [Microsoft's Visual C++ for x86](https://aka.ms/vs/17/release/vc_redist.x86.exe).
 
 Does the issue persists? Try running the game from the command line using:
@@ -43,13 +43,13 @@ Does the issue persists? Try running the game from the command line using:
 ```
 If that doesn't report any warnings or errors, please get in touch here on GitHub or on the Discord server!
 
-### Why is my favorite extension not working?
+### 4. Why is my favorite extension not working?
 Make sure your favorite extension is as high as possible in the active extension list.
 
 The reason is that the list of active extensions in the GUI is resolved into a final config in a bottom-up fashion.
 Therefore, extensions higher in the list override the configuration of extensions lower in the list.
 
-### What is the difference between "AI" and "AI applied"?
+### 5. What is the difference between "AI" and "AI applied"?
 In UCP3, content and configuration can be separated.
 The AI extensions (without the Applied suffix) supply the new AI files (content).
 The AI extensions named "Applied" apply the new AI configuration into AI slots (e.g. a new Rat AI overriding the old Rat AI).
