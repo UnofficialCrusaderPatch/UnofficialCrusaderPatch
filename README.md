@@ -27,7 +27,16 @@ Installation is done in two parts, first we install the GUI, then from the GUI, 
 
 ## FAQ (and Frequently Encountered Issues)
 ### 1. GUI does not run
-Make sure you have installed [Webview2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
+Make sure you have installed [Webview2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).  
+If you have installed it, make sure it is not broken, this can happen for some reason we don't know.
+First, run this command to make sure your system files aren't broken.
+```cmd
+sfc /scannow
+```
+Then, press the Windows key + I and go to "Apps". Click "Installed apps". Locate "Microsoft Edge WebView2 Runtime" in the list. Click "Modify" and then "Repair".
+Try launching Webview2 again. If it is still not working, disable your antivirus temporarily.
+
+If it is still not working, contact us on Discord!
 
 ### 2. The game reports errors on launch
 If they are about "AOB" then you are likely running an unsupported version.
