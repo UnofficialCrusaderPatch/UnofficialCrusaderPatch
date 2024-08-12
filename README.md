@@ -34,7 +34,7 @@ First, run this command to make sure your system files aren't broken.
 sfc /scannow
 ```
 Then, press the Windows key + I and go to "Apps". Click "Installed apps". Locate "Microsoft Edge WebView2 Runtime" in the list. Click "Modify" and then "Repair".
-Try launching Webview2 again. If it is still not working, try uninstalling Webview 2 and reinstalling it:
+Try launching Webview2 again. If it is still not working, try uninstalling Webview 2 and [reinstalling](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH#download-section) it:
 ```cmd
 winget uninstall "Microsoft Edge WebView2 Runtime"
 ```
