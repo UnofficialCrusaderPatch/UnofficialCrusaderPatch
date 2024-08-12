@@ -34,9 +34,12 @@ First, run this command to make sure your system files aren't broken.
 sfc /scannow
 ```
 Then, press the Windows key + I and go to "Apps". Click "Installed apps". Locate "Microsoft Edge WebView2 Runtime" in the list. Click "Modify" and then "Repair".
-Try launching Webview2 again. If it is still not working, disable your antivirus temporarily.
+Try launching Webview2 again. If it is still not working, try uninstalling Webview 2 and reinstalling it:
+```cmd
+winget uninstall "Microsoft Edge WebView2 Runtime"
+```
 
-If it is still not working, contact us on Discord!
+If our suggestions are unclear and it is still not working, contact us on Discord!
 
 ### 2. The game reports errors on launch
 If they are about "AOB" then you are likely running an unsupported version.
