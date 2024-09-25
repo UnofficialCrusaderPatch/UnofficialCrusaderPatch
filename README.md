@@ -1,4 +1,10 @@
+
+Announcement: Our Discord server got hacked and destroyed. We are in contact with Discord and hope to bring it back as soon as we can.
+
+---
+
 # Unofficial Crusader Patch 3  [![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/N4UVjZBRXU)
+
 **UCP 3.0 has been released! Get it [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases)!** :tada:
 
 <img src="https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch-new/assets/4720007/2ff171cd-ef67-499b-9452-e8ddd49198f6" width="600" />
