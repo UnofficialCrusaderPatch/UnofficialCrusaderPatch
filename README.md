@@ -1,5 +1,6 @@
 
 Announcement: Our Discord server got hacked and destroyed. We are in contact with Discord and hope to bring it back as soon as we can.
+We will keep you informed here on our GitHub
 
 ---
 
