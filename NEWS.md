@@ -1,6 +1,6 @@
 # UCP Discord maliciously attacked
 [meta]: <> (
-timestamp: 2024-10-02
+timestamp: 2024-09-25
 category: community
 )
 
@@ -25,3 +25,30 @@ category: frontend
 A new version of the GUI has been released!
 
 It features a "News" section where we can update you on new content, and new versions.
+
+---
+
+# Modding Framework version 3.0.4 released
+[meta]: <> (
+timestamp: 2024-09-05
+category: framework
+)
+
+A new version of the Modding Framework has been released!
+
+## Fixes
+- Fix the files list returned by `luaListFiles` to not be limited to 255 or 127 elements
+- ship module files@1.1.0 by default
+- do not ship all modules anymore, as the Store has been introduced in the GUI
+
+---
+
+# NEW: Running Units
+[meta]: <> (
+timestamp: 2024-09-08
+category: store
+)
+
+A new extension has been introduced: Running Units. With this extension, it is now possible to
+enable macemen to run when in groups with other units. Previously they were forced to walk.
+It also features the ability to set this feature per AI via the AIC (AI Character) files and the aiSwapper.
