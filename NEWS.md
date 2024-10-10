@@ -26,6 +26,9 @@ A new version of the GUI has been released!
 
 It features a "News" section where we can update you on new content, and new versions.
 
+It also fixes a major bug that was present which reordered extensions in the active extensions list whenever an extension was activated.
+This should now not happen anymore. Note that extensions higher in the list can override the configuration of extensions lower in the list.
+
 ---
 
 # Modding Framework version 3.0.4 released
@@ -40,6 +43,17 @@ A new version of the Modding Framework has been released!
 - Fix the files list returned by `luaListFiles` to not be limited to 255 or 127 elements
 - ship module files@1.1.0 by default
 - do not ship all modules anymore, as the Store has been introduced in the GUI
+
+---
+
+# NEW: Fiery Ladies
+[meta]: <> (
+timestamp: 2024-09-29
+category: store
+)
+
+A new extension has been introduced: Fiery Ladies. It features AI created by Azula! Use the "Fiery Ladies" extension to get started quickly.
+Or configure the AI's yourself with just the "Fiery Ladies AI" extension. Enjoy!
 
 ---
 
