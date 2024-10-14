@@ -1,3 +1,16 @@
+# The UCP Discord is back!
+[meta]: <> (
+timestamp: 2024-10-10
+category: community
+)
+
+Discord couldn't fix the damage a malicious invader had done to our beloved UCP community server.
+
+We are now building it from scratch again! Join us!
+[![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/P9dkF38Q2t)
+
+---
+
 # UCP Discord maliciously attacked
 [meta]: <> (
 timestamp: 2024-09-25
