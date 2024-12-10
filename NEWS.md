@@ -1,3 +1,27 @@
+# NEW: Ascension Multiplayer Full Release
+[meta]: <> (
+timestamp: 2024-10-09
+category: store
+)
+
+## ⚔️ **Ascension Extensions for Stronghold Crusader! ** 🛡️
+
+The **Ascension Extensions Family** has hit the store! Check out the **Ascension Multiplayer** extension, designed to bring a fresh multiplayer era with:
+
+- **Ascension AI:** Efficiently designed AI opponents to dominate the battlefield.
+
+- **Ascension Maps:** Choose from **95 diverse maps**, perfect for multiplayer or AI matches.
+
+- **Ascension Balance:** A complete overhaul to give each building and unit meaningful purpose, inspired by Firefly Design.
+
+- **Ascension AI Balance:** Ideal for single-player enthusiasts, offering finely tuned AI for more fun and challenging games.
+
+**To play Multiplayer**, either download [GameRanger](https://www.gameranger.com) or, if you just want to play with friends, try the [Radmin VPN](https://www.radmin-vpn.com) local LAN emulator and connect seamlessly!
+
+**NOTE:** The **Ascension Multiplayer** extension can only be used alone or with texture upgrades and tweaked QoL options, while the **Ascension AI Balance** is combinable with all other extensions of your choice!
+
+---
+
 # The UCP Discord is back!
 [meta]: <> (
 timestamp: 2024-10-10
@@ -8,6 +32,32 @@ Discord couldn't fix the damage a malicious invader had done to our beloved UCP 
 
 We are now building it from scratch again! Join us!
 [![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/P9dkF38Q2t)
+
+---
+
+# GUI version 1.0.6 released
+[meta]: <> (
+timestamp: 2024-10-05
+category: frontend
+)
+
+A new version of the GUI has been released!
+
+It features a "News" section where we can update you on new content, and new versions.
+
+It also fixes a major bug that was present which reordered extensions in the active extensions list whenever an extension was activated.
+This should now not happen anymore. Note that extensions higher in the list can override the configuration of extensions lower in the list.
+
+---
+
+# NEW: Fiery Ladies
+[meta]: <> (
+timestamp: 2024-09-29
+category: store
+)
+
+A new extension has been introduced: Fiery Ladies. It features AI created by Azula! Use the "Fiery Ladies" extension to get started quickly.
+Or configure the AI's yourself with just the "Fiery Ladies AI" extension. Enjoy!
 
 ---
 
@@ -29,18 +79,15 @@ In the meantime, you can join the old server on which we will also notify you of
 
 ---
 
-# GUI version 1.0.6 released
+# NEW: Running Units
 [meta]: <> (
-timestamp: 2024-10-05
-category: frontend
+timestamp: 2024-09-08
+category: store
 )
 
-A new version of the GUI has been released!
-
-It features a "News" section where we can update you on new content, and new versions.
-
-It also fixes a major bug that was present which reordered extensions in the active extensions list whenever an extension was activated.
-This should now not happen anymore. Note that extensions higher in the list can override the configuration of extensions lower in the list.
+A new extension has been introduced: Running Units. With this extension, it is now possible to
+enable macemen to run when in groups with other units. Previously they were forced to walk.
+It also features the ability to set this feature per AI via the AIC (AI Character) files and the aiSwapper.
 
 ---
 
@@ -57,25 +104,3 @@ A new version of the Modding Framework has been released!
 - ship module files@1.1.0 by default
 - do not ship all modules anymore, as the Store has been introduced in the GUI
 
----
-
-# NEW: Fiery Ladies
-[meta]: <> (
-timestamp: 2024-09-29
-category: store
-)
-
-A new extension has been introduced: Fiery Ladies. It features AI created by Azula! Use the "Fiery Ladies" extension to get started quickly.
-Or configure the AI's yourself with just the "Fiery Ladies AI" extension. Enjoy!
-
----
-
-# NEW: Running Units
-[meta]: <> (
-timestamp: 2024-09-08
-category: store
-)
-
-A new extension has been introduced: Running Units. With this extension, it is now possible to
-enable macemen to run when in groups with other units. Previously they were forced to walk.
-It also features the ability to set this feature per AI via the AIC (AI Character) files and the aiSwapper.
