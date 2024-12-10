@@ -1,10 +1,8 @@
-# NEW: Ascension Multiplayer Full Release
+# NEW: ⚔️ Ascension Multiplayer Release 🛡️
 [meta]: <> (
 timestamp: 2024-10-09
 category: store
 )
-
-## ⚔️ Ascension Extensions Released! 🛡️
 
 The **Ascension Extensions Family** has hit the store! Check out the **Ascension Multiplayer** extension, designed to bring a fresh multiplayer era with:
 
