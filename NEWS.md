@@ -4,7 +4,7 @@ timestamp: 2024-10-09
 category: store
 )
 
-## ⚔️ **Ascension Extensions for Stronghold Crusader! ** 🛡️
+## ⚔️ Ascension Extensions for Stronghold Crusader! 🛡️
 
 The **Ascension Extensions Family** has hit the store! Check out the **Ascension Multiplayer** extension, designed to bring a fresh multiplayer era with:
 
