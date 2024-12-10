@@ -1,4 +1,4 @@
-# Unofficial Crusader Patch 3  [![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/P9dkF38Q2t)
+# Unofficial Crusader Patch 3 ![Github All Releases](https://img.shields.io/github/downloads/UnofficialCrusaderPatch/UnofficialCrusaderPatch3/total.svg)  [![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/P9dkF38Q2t)
 
 Announcement: Our Discord server got hacked and destroyed by a malicious intruder! Everyone was banned, but this ban has since been lifted. Join our Discord server!
 
