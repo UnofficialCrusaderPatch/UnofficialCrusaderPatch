@@ -92,10 +92,10 @@ If you have suggestions, you are welcome to post new ideas or discuss already ex
 - try to check if your suggestion already has a topic and join that discussion instead of creating a new one
 - keep the tone nice and civil  
 
-Furthermore you can join our [Discord Server](https://discord.gg/N4UVjZBRXU) for quick help and feedback.
+Furthermore you can join our [Discord Server](https://discord.gg/P9dkF38Q2t) for quick help and feedback.
 
 ## Contributing
-If you want to contribute translations, get in touch on our [Discord Server](https://discord.gg/N4UVjZBRXU) or get started [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch3)
+If you want to contribute translations, get in touch on our [Discord Server](https://discord.gg/P9dkF38Q2t) or get started [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch3)
 
 If you want to contribute modifications to the user interface, you can contribute to the [GUI](https://github.com/UnofficialCrusaderPatch/UCP3-GUI).
 
@@ -103,7 +103,7 @@ If you want to contribute modifications to the game, you can contribute to [UCP3
 
 If you want to contribute content for the game, you can create and share your own plugin extensions. Note, that it is planned to automate and integrate the process of sharing your content within the GUI itself, for that make sure you follow the plugin structure.
 
-Are you considering to contribute? Join our [Discord Server](https://discord.gg/N4UVjZBRXU) for help.
+Are you considering to contribute? Join our [Discord Server](https://discord.gg/P9dkF38Q2t) for help.
 
 ## The team behind the UCP
 
