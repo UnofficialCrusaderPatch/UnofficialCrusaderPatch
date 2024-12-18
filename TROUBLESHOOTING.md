@@ -1,31 +1,49 @@
-## The game does not run at all (no window) when the modding framework is installed and active
-Make sure you have installed [Microsoft's Visual C++ for x86](https://aka.ms/vs/17/release/vc_redist.x86.exe).
+## The game does not start at all (no window) when using the modding framework
 
-Does the issue persists? Try running the game from the command line using:
-```cmd
-"Stronghold Crusader.exe" --ucp-console --ucp-verbosity 10 --ucp-console-verbosity 10
-```
-If that doesn't report any warnings or errors, please get in touch on GitHub or on [the Discord server](https://discord.gg/P9dkF38Q2t)!
+1. Make sure you have installed [Microsoft's Visual C++ for x86](https://aka.ms/vs/17/release/vc_redist.x86.exe).
 
-## The game reports errors on launch
-If they are about "AOB" then you are likely running an unsupported version.
+2. Still having problems? Try running the game from the command line. Use this command:
+    ```cmd
+    "Stronghold Crusader.exe" --ucp-console --ucp-verbosity 10 --ucp-console-verbosity 10
+    ```
 
-The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Latin languages) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
+3. If this does not show any warnings or errors, please contact us on GitHub or join [our Discord server](https://discord.gg/P9dkF38Q2t)!
 
-To change the language of your Steam game, follow the steps at the bottom of [this page](https://help.steampowered.com/en/faqs/view/4984-C127-121D-B3F2).
+---
+
+## The game shows errors when launching
+
+If the errors mention **"AOB"**, you are probably using an unsupported game version.
+
+- The patch officially works with **version 1.41** and **1.41.1** (Latin languages).  
+- If you have a different version, you can upgrade to version 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html), or buy the game on Steam.
+
+### How to change the game language on Steam
+Follow the instructions at the bottom of [this Steam page](https://help.steampowered.com/en/faqs/view/4984-C127-121D-B3F2).
+
+---
 
 ## Why is my favorite extension not working?
-Make sure your favorite extension is as high as possible in the active extension list.
 
-The reason is that the list of active extensions in the GUI is resolved into a final config in a bottom-up fashion.
-Therefore, extensions higher in the list override the configuration of extensions lower in the list.
+Make sure your favorite extension is **at the top** of the active extensions list.
+
+- **Why?** Extensions are applied from bottom to top in the list.  
+- Extensions higher in the list **override** those lower in the list.
+
+---
 
 ## What is the difference between "AI" and "AI applied"?
-In UCP3, content and configuration can be separated.
-The AI extensions (without the Applied suffix) supply the new AI files (content).
-The AI extensions named "Applied" apply the new AI configuration into AI slots (e.g. a new Rat AI overriding the old Rat AI).
 
-If you want to tinker yourself with the AI files (e.g. place a new Rat AI into the Snake AI slot so two different Rats can compete), then you only need to activate the content extensions (without "Applied").
+- **AI extensions** (without "Applied") add new AI files (content).  
+- **"AI Applied" extensions** apply the new AI configuration to AI slots.  
+   Example: A new Rat AI replacing the old Rat AI.
+
+### Want to customize the AI files yourself?  
+If you only need the new AI content, activate the **AI extensions** (without "Applied").  
+For example, you could place a new Rat AI into the Snake AI slot to have two Rats compete.
+
+---
 
 ## Other issues
-Please get in touch on GitHub or on [the Discord server](https://discord.gg/P9dkF38Q2t)!
+
+If you have other problems, please reach out on GitHub or join [our Discord server](https://discord.gg/P9dkF38Q2t)!
