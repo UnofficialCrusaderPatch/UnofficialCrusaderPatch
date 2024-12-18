@@ -12,7 +12,7 @@ If they are about "AOB" then you are likely running an unsupported version.
 
 The patch should work for most crusader versions, but only v1.41 and v1.41.1 (Latin languages) are officially supported. If you encounter an error using a different version, you can upgrade to 1.41 for free using Firefly’s [Crusader HD Patch](http://www.strongholdcrusaderhd.com/patch.html) or get the game on Steam.
 
-To change the language of your Steam game, follow the steps at the bottom of this page: https://help.steampowered.com/en/faqs/view/4984-C127-121D-B3F2
+To change the language of your Steam game, follow the steps at the bottom of [this page](https://help.steampowered.com/en/faqs/view/4984-C127-121D-B3F2).
 
 ## Why is my favorite extension not working?
 Make sure your favorite extension is as high as possible in the active extension list.
