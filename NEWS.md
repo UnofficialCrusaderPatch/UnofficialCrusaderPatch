@@ -1,3 +1,19 @@
+# NEW: 🏰 Nevikovs Community Packet & Hacksülzes Neue Herrscher Modpack 🎉
+[meta]: <> (
+timestamp: 2024-12-26
+category: store
+)
+
+Two incredible releases just hit the store for Stronghold Crusader fans:
+
+- **Nevikovs Community Packet**: Dive into a collection of **16 high-quality AIs**, masterfully crafted by the best in the community. Each character offers unique strategies and personality, perfect for AI battles or challenging player duels. Explore a balanced and immersive medieval experience!
+
+- **Neue Herrscher Modpack by Hacksülze**: Replace 12 vanilla AIs with a fresh roster of **historical and comedic characters**, complete with video messages, speechlines (German only), and unique castles. Enjoy a difficulty range from casual fun to maximum challenge!
+
+Level up your Crusader experience today with these exciting additions! 🎮
+
+---
+
 # NEW: ⚔️ Ascension Multiplayer Release 🛡️
 [meta]: <> (
 timestamp: 2024-12-10
