@@ -1,3 +1,13 @@
+# UPDATE: Fiery Ladies AI has been updated!
+[meta]: <> (
+timestamp: 2024-01-06
+category: store
+)
+
+Use the "Fiery Ladies" extension to get started quickly. Or configure the AI's yourself with just the "Fiery Ladies AI" extension. Enjoy!
+
+---
+
 # NEW: 🏰 Nevikovs Community Packet & Hacksülzes Neue Herrscher Modpack 🎉
 [meta]: <> (
 timestamp: 2024-12-26
