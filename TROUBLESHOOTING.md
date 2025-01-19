@@ -1,6 +1,6 @@
 ## The game does not start at all (no window) when using the modding framework
 
-1. Make sure you have installed [Microsoft's Visual C++ for x86](https://aka.ms/vs/17/release/vc_redist.x86.exe).
+1. Make sure you have installed [this version of Microsoft's Visual C++ for x86](https://aka.ms/vs/17/release/vc_redist.x86.exe).
 
 2. Still having problems? Try running the game from the command line. Use this command:
     ```cmd
