@@ -1,3 +1,8 @@
+## The UCP3 GUI does not start (it closes after 1 second)
+Make sure you have installed the [webview2 runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).  
+If that does not solve the issue, try repairing webview2 runtime in your list of [installed apps](https://support.microsoft.com/en-us/windows/repair-apps-and-programs-in-windows-e90eefe4-d0a2-7c1b-dd59-949a9030f317).
+If that also does not work, you can try [this](https://superuser.com/a/1751710)
+
 ## The game does not start at all (no window) when using the modding framework
 
 1. Make sure you have installed [this version of Microsoft's Visual C++ for x86](https://aka.ms/vs/17/release/vc_redist.x86.exe).
