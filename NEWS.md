@@ -1,3 +1,19 @@
+# UCP Team is not working on a patch for the DE
+[meta]: <> (
+timestamp: 2024-10-10
+category: community
+)
+
+Based on the Demo, we conclude that creating a UCP for the DE would mean we have to start over, almost from scratch. We can't develop and test our mods effectively due to technical reasons and the game files we want to mod are much more inaccessible in the DE. We are therefore not developing a UCP for the DE as it stands.
+
+We have reached out to Firefly but as you may know, there will be no collaboration between Firefly and the UCP Team regarding the DE. Firefly states they are committed to make making mods as easy as possible, and while that may be true for the full release, currently the opposite is true for us in the Demo.
+
+We will have to wait and see to what extent making mods for the full release of the DE is feasible. Thus, we are currently not working on a UCP patch for the DE, and if the current situation stays the same in the full release, there will no be UCP for the Definitive Edition. 
+
+[![UCP_Official](https://discordapp.com/api/guilds/426318193603117057/widget.png?style=shield)](https://discord.gg/P9dkF38Q2t)
+
+---
+
 # UPDATE: Fiery Ladies AI has been updated!
 [meta]: <> (
 timestamp: 2024-01-24
