@@ -73,6 +73,13 @@ The AI extensions named "Applied" apply the new AI configuration into AI slots (
 
 If you want to tinker yourself with the AI files (e.g. place a new Rat AI into the Snake AI slot so two different Rats can compete), then you only need to activate the content extensions (without "Applied").
 
+### 6. Will there be a UCP for the Definitive Edition?
+Based on the Demo, we conclude that creating a UCP for the DE would mean we have to start over, almost from scratch. We can't develop and test our mods effectively due to technical reasons and the game files we want to mod are much more inaccessible in the DE. We are therefore not developing a UCP for the DE as it stands.
+
+We have reached out to Firefly but as you may know, there will be no collaboration between Firefly and the UCP Team regarding the DE. Firefly states they are committed to make making mods as easy as possible, and while that may be true for the full release, currently the opposite is true for us in the Demo.
+
+We will have to wait and see to what extent making mods for the full release of the DE is feasible. Thus, we are currently not working on a UCP patch for the DE, and if the current situation stays the same in the full release, there will no be UCP for the Definitive Edition. 
+
 ## Wiki
 There is a wiki here specifically for the modding framework: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch3/wiki
 
