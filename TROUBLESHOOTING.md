@@ -49,6 +49,9 @@ For example, you could place a new Rat AI into the Snake AI slot to have two Rat
 
 ---
 
+## Warchest Trail crashes the game
+Check out [this](https://steamcommunity.com/app/40970/discussions/0/1777135944135270096/)
+
 ## Other issues
 
 If you have other problems, please reach out on GitHub or join [our Discord server](https://discord.gg/P9dkF38Q2t)!
