@@ -13,20 +13,21 @@ This project is an unofficial patcher for [Firefly Studio's](https://fireflyworl
 ##### UCP Legacy
 Are you looking for the previous version of the patch (UCP2)? That repo has moved to [here](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch2/). Don't worry, we are still reading and considering all reported issues with the previous version and suggestions for features and improvements.
 
-## Installation
+## Getting Started
 
 To install the patch we recommend to download the [GUI](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases).  
 Installation is done in two parts, first we install the GUI, then from the GUI, we install the new UCP3 modding framework.
 
-1. Download and run the GUI installer.
-2. Keep the recommended folder selected for installation (i.e., AppData\Local). If you run into issues, check the FAQ.
-3. When installation is finished, run the GUI.
-4. In the GUI, select your Stronghold Crusader 1 game folder.
-5. Then, press the button to install the latest version of the modding framework to this game folder.
-6. To get you started, it is recommended to activate the UCP2-legacy-defaults extension which configures recommended settings you might be familiar with from UCP 2.
-7. Hit the Apply button to save the configuration to disk.
-8. Launch the game by going to the Launch tab and clicking an icon. You can also launch the game outside of the GUI by launching the original .exe file, or launch it via Steam.
-9. Enjoy!
+1. Download the latest UCP3 frontend which functions as an installation manager and mod marketplace.
+2. Install the UCP3-GUI (the frontend) to the default location and run it. The UCP3-GUI is known to work on Windows 10 and higher. For other windows versions it is important to install the webview2 runtime with the evergreen installer.
+3. The GUI features several tabs. The Overview tab is the one we will use first. Click the browse field and select the folder on which your installation of Stronghold Crusader is installed. If you got the game on Steam, you can use the Steam app to find your installation.
+4. If you installation is in Program Files (x86), it might be that your windows user doesnt have sufficient rights to place and modify files in the game directory. A solution is to copy the game folder to your Windows User folder. After copying, make sure to select the new folder in the GUI.
+5. In the Overview tab click the Install button which will download the latest UCP software (the "framework"), and it will install itself to the configured game directory. The GUI may report that the ucp2 is still installed which you need to uninstall first. Or reinstall the game. In case you have the game on steam you can use "verify integrity of game files" to uninstall ucp2.
+6. When installation finishes, the framework is automatically active by default. In the Content tab there is a list of activated extensions and in the Launch tab there is the option to Launch the game. Lets launch the game to see if it works.
+7. If the game does not launch, you can consult the troubleshooting menu in the GUI.
+8. Visit the Store tab to install extra content. In the Content tab, activate content one by one. Higher listed content in the active extensions list can override lower listed ones if they configure the same option. Click on listed extensions to see what they do and/or provide.
+9. Go to the Launch tab to launch the game, use Steam to launch the game, or run the game manually via the .exe
+10. Have fun!
 
 ## FAQ (and Frequently Encountered Issues)
 ### 1. GUI does not run
