@@ -116,53 +116,53 @@ Are you considering to contribute? Join our [Discord Server](https://discord.gg/
 ## Credits: The team behind the UCP
 
 ### Creators of the UCP
-Sh0wdown
-Gynt (UCP3)
+Sh0wdown  
+Gynt (UCP3)  
 
 ### Project Management
-Krarilotus
-Kimberly Azula
+Krarilotus  
+Kimberly Azula  
 
 ### Developers
-Altaruss'28
-atlan_ace
-Chaf1812
-CIO
-Corax
-J-T-de
-LeSpec
-LordHansCapon
-Monsterfisch_
-np123
-TheRedDaemon
+Altaruss'28  
+atlan_ace  
+Chaf1812  
+CIO  
+Corax  
+J-T-de  
+LeSpec  
+LordHansCapon  
+Monsterfisch_  
+np123  
+TheRedDaemon  
 
 ### Content Creators
-CrusaderPilaw
-Evrey
-Hacksülze
-Nevikov
-PitchNeeded
-Schlossgespenst
-Tatha
-Xander10alpha
+CrusaderPilaw  
+Evrey  
+Hacksülze  
+Nevikov  
+PitchNeeded  
+Schlossgespenst  
+Tatha  
+Xander10alpha  
 
 ### Game Experts
-GRhin
-Heroesflorian
-PodeCaradox
+GRhin  
+Heroesflorian  
+PodeCaradox  
 
 ### Community Pillars
-CyberWizard
-Udwin
-xCara
+CyberWizard  
+Udwin  
+xCara  
 
 ### Translators
-Chinese: Skysouls
-French: Alix Barreaux
-Hungarian: Liegav, Tumblra
-Persian: arabianknight2641
-Polish: Lutel
-Russian: Lolasik011
+Chinese: Skysouls  
+French: Alix Barreaux  
+Hungarian: Liegav, Tumblra  
+Persian: arabianknight2641  
+Polish: Lutel  
+Russian: Lolasik011  
 
 ### Special thanks of course go to  
 [Firefly Studios](https://fireflyworlds.com/) for the creation of the Stronghold series  
