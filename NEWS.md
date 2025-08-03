@@ -1,3 +1,25 @@
+# NEW: 🌐 Official Website & Community Wiki Launch 🎉
+[meta]: <> (
+timestamp: 2025-08-03
+category: community
+)
+
+We’re excited to announce the launch of our **official Unofficial Crusader Patch website**!  
+👉 [unofficialcrusaderpatch.com](https://unofficialcrusaderpatch.com)
+
+As part of this launch, we’ve created a **brand-new UCP Wiki** – rebuilt from scratch to serve as the **central hub for documentation, tutorials, and modding knowledge**.  
+
+This wiki will only become as great as we make it **together**. We’re inviting the entire community to:
+- 🧾 Read and explore the Wiki pages on the website  
+- 🛠️ Contribute by making **Pull Requests** to the GitHub repo  
+- ✅ Look for `TODO` markers as starting points or add your own on-topic content  
+
+📚 **Wiki GitHub Repo:** [UCP-Wiki](https://github.com/UnofficialCrusaderPatch/UCP-Wiki/)  
+
+Help us grow this resource and shape the future of the UCP modding community!
+
+---
+
 # UCP Team is not working on a patch for the DE
 [meta]: <> (
 timestamp: 2025-02-27
