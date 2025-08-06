@@ -1,4 +1,28 @@
-# NEW: 🌐 Official Website & Community Wiki Launch 🎉
+# ⚔️ Announcing the Ascension AI Tournament 2025! 🏆
+[meta]: <> (
+timestamp: 2025-08-06
+category: community
+)
+
+Modders, the ultimate challenge in AI creativity and strategy is here! We are thrilled to announce the **Ascension AI Tournament 2025**, and initial submissions are now open!
+
+The goal is not just to create the most powerful AI, but to bring unique characters to life that result in fun, strategic, and memorable matches.
+
+Here’s how to get started:
+
+1.  **Install the Official Plugin:** Head to the UCP Store and install the new **Ascension AI Tournament Plugin**. This is **required** for testing your AI against the tournament’s unique balance and starting conditions. You can read the full ruleset in the plugin's description or directly on the **[Official Tournament GitHub](https://github.com/Krarilotus/Ascension-AI-Tournament/blob/main/locale/description-en.md)**.
+
+2.  **Meet the First Deadline:** To enter the competition, you must submit a **fully-functioning AI** by the initial deadline of **August 20th, 2025**. This will secure your spot to participate.
+
+**Important:** The first submission is not the final one! After securing your spot, you can continue to refine, tweak, and perfect your AI. Final adjustments will be allowed right up until the tournament's opening round begins (final lock-in date to be announced).
+
+Furthermore, we are also looking for community members to help with organization, casting, and statistics. If you'd like to get involved, please contact us on Discord!
+
+We can't wait to see the unique characters you bring to the battlefield! Happy modding!
+
+---
+
+# 🌐 Official Website & Community Wiki Launch 🎉
 [meta]: <> (
 timestamp: 2025-08-03
 category: community
