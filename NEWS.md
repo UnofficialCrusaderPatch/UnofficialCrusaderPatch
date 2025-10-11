@@ -1,3 +1,19 @@
+# Auto Market extension available now!
+[meta]: <> (
+timestamp: 2025-10-12
+category: store
+)
+After almost a year of development, it is finally here, the UCP3 automarket! Get it in the Store tab!
+
+- Works in Multiplayer and Singleplayer
+- Includes optional market fee charges
+- Set a gold threshold so the automarket never buys too much
+- Integrated into the original UI of the game
+
+The automarket is now in beta! Some uses have issues with the game crashing at game start when the automarket is active. Please get in touch if you experience this too, or consult this [help](https://github.com/gynt/ucp-extension-automarket/blob/main/locale/description-en.md).
+
+---
+
 # ⚔️ Announcing the Ascension AI Tournament 2025! 🏆
 [meta]: <> (
 timestamp: 2025-08-06
