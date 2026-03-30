@@ -18,8 +18,10 @@ Are you looking for the previous version of the patch (UCP2)? That repo has move
 To install the patch we recommend to download the [GUI](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases).  
 Installation is done in two parts, first we install the GUI, then from the GUI, we install the new UCP3 modding framework.
 
+Are you using Linux? You can download the .deb or .AppImage releases to install the GUI on Linux. Do that first and then continue with step 3 below.
+
 1. Download the latest UCP3 frontend which functions as an installation manager and mod marketplace.
-2. Install the UCP3-GUI (the frontend) to the default location and run it. The UCP3-GUI is known to work on Windows 10 and higher. For other windows versions it is important to install the webview2 runtime with the evergreen installer.
+2. Install this UCP3-GUI (the frontend) to the pre-specified default location and run it. The UCP3-GUI is known to work on Windows 10 and higher. For other windows versions it is important to install the webview2 runtime with the evergreen installer.
 3. The GUI features several tabs. The Overview tab is the one we will use first. Click the browse field and select the folder on which your installation of Stronghold Crusader is installed. If you got the game on Steam, you can use the Steam app to find your installation.
 4. If you installation is in Program Files (x86), it might be that your windows user doesnt have sufficient rights to place and modify files in the game directory. A solution is to copy the game folder to your Windows User folder. After copying, make sure to select the new folder in the GUI.
 5. In the Overview tab click the Install button which will download the latest UCP software (the "framework"), and it will install itself to the configured game directory. The GUI may report that the ucp2 is still installed which you need to uninstall first. Or reinstall the game. In case you have the game on steam you can use "verify integrity of game files" to uninstall ucp2.
@@ -80,6 +82,9 @@ Based on the Demo, we conclude that creating a UCP for the DE would mean we have
 We have reached out to Firefly but as you may know, there will be no collaboration between Firefly and the UCP Team regarding the DE. Firefly states they are committed to make making mods as easy as possible, and while that may be true for the full release, currently the opposite is true for us in the Demo.
 
 We will have to wait and see to what extent making mods for the full release of the DE is feasible. Thus, we are currently not working on a UCP patch for the DE, and if the current situation stays the same in the full release, there will no be UCP for the Definitive Edition. 
+
+### 7. Does it work on Linux?
+Yes, see [here](https://github.com/UnofficialCrusaderPatch/UCP3-GUI/blob/main/LINUX.md) for installation instructions of the GUI on Linux.
 
 ## Wiki
 There is a wiki here specifically for the modding framework: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch3/wiki
