@@ -1,3 +1,17 @@
+# UCP-Recorder artık Mağazada!
+[meta]: <> (
+timestamp: 2026-09-11
+category: store
+)
+
+UCP-Recorder 0.50.3, UCP 3.0.7 için Mağazada yayınlandı! Tek oyunculu ve çok oyunculu maçları kaydetmek için eklentiyi kurup etkinleştirin, ardından kayıtlarınızı oyunun maç geçmişinden izleyin. Çok oyunculu maçların kayıtları da tek oyunculu modda izlenir.
+
+Test etmemize yardımcı olun: farklı ayarlar ve eklentiler deneyin, maçlarınızı kaydedip yeniden izleyin ve sorunları Discord üzerinden bildirin. Lütfen Recorder sürümünü, etkin eklentileri ve sorunu yeniden oluşturma adımlarını belirtin.
+
+Oyunu anlamamıza ve geliştirmemize yardımcı olmak ister misiniz? [OpenSHC](https://github.com/sourcehold/OpenSHC) projesine katkılarınız ekibi ve gelecekteki UCP çalışmalarını destekler.
+
+---
+
 # ⚔️ Yükseliş Yapay Zeka Turnuvası 2025'i Gururla Sunarız! 🏆
 [meta]: <> (
 timestamp: 2025-08-06

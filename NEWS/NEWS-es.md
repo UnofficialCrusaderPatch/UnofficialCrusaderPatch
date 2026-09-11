@@ -1,3 +1,17 @@
+# ¡UCP-Recorder ya está en la tienda!
+[meta]: <> (
+timestamp: 2026-09-11
+category: store
+)
+
+¡UCP-Recorder 0.50.3 está disponible en la tienda para UCP 3.0.7! Instala y activa la extensión para grabar partidas individuales y multijugador, y después mira las grabaciones desde el historial de partidas del juego. Las grabaciones multijugador también se ven en modo de un jugador.
+
+Ayúdanos a probarla: utiliza distintas configuraciones y extensiones, guarda y reproduce tus partidas, e informa de cualquier problema en Discord. Incluye la versión de Recorder, las extensiones activas y los pasos para reproducir el problema.
+
+¿Quieres ayudarnos a comprender y mejorar el juego? Las contribuciones a [OpenSHC](https://github.com/sourcehold/OpenSHC) apoyan al equipo y al trabajo futuro de UCP.
+
+---
+
 # ⚔️ ¡Anunciamos el Torneo de IAs "Ascension" 2025! 🏆
 [meta]: <> (
 timestamp: 2025-08-06

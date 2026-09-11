@@ -1,3 +1,17 @@
+# Az UCP-Recorder már elérhető az Áruházban!
+[meta]: <> (
+timestamp: 2026-09-11
+category: store
+)
+
+Az UCP-Recorder 0.50.3 elérhető az Áruházban az UCP 3.0.7-hez! Telepítsd és kapcsold be a bővítményt az egyjátékos és többjátékos meccsek rögzítéséhez, majd nézd vissza a felvételeket a játék meccselőzményeiből. A többjátékos felvételeket is egyjátékos módban lehet visszanézni.
+
+Segíts a tesztelésben: próbálj ki különféle beállításokat és bővítményeket, mentsd el és játszd vissza a meccseidet! A hibákat Discordon jelezd a Recorder verziójával, az aktív bővítményekkel és a hiba előidézésének lépéseivel együtt.
+
+Szeretnél segíteni a játék megértésében és fejlesztésében? Az [OpenSHC](https://github.com/sourcehold/OpenSHC) projekthez való hozzájárulással a csapatot és az UCP jövőbeli fejlesztését is támogatod.
+
+---
+
 # ⚔️ Bemutatkozik az Ascension MI Bajnokság 2025! 🏆
 [meta]: <> (
 timestamp: 2025-08-06

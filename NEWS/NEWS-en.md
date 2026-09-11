@@ -1,3 +1,17 @@
+# UCP-Recorder is now in the Shop!
+[meta]: <> (
+timestamp: 2026-09-11
+category: store
+)
+
+UCP-Recorder 0.50.3 is available in the Shop for UCP 3.0.7! Install and enable it to record singleplayer and multiplayer matches, then watch your recordings from the game's match history. Multiplayer recordings are also watched in singleplayer.
+
+Help us test it: try different settings and extensions, save and replay your matches, and report any problems on Discord. Please include your Recorder version, active extensions and steps to reproduce the issue.
+
+Want to help us understand and improve the game? Contributions to [OpenSHC](https://github.com/sourcehold/OpenSHC) support the team and future UCP work.
+
+---
+
 # ⚔️ Announcing the Ascension AI Tournament 2025! 🏆
 [meta]: <> (
 timestamp: 2025-08-06

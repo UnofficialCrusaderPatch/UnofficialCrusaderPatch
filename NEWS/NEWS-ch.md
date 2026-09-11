@@ -1,3 +1,17 @@
+# UCP-Recorder 现已上架商店！
+[meta]: <> (
+timestamp: 2026-09-11
+category: store
+)
+
+UCP-Recorder 0.50.3 现已在 UCP 3.0.7 的商店中提供！安装并启用该扩展，即可录制单人和多人对局，然后从游戏内的对局历史中观看录像。多人对局录像也在单人模式下观看。
+
+欢迎帮助我们测试：尝试不同的设置和扩展，保存并回放对局，并在 Discord 上反馈问题。请附上 Recorder 版本、已启用的扩展以及复现问题的步骤。
+
+想帮助我们理解和改进游戏吗？欢迎为 [OpenSHC](https://github.com/sourcehold/OpenSHC) 项目贡献力量，支持团队和 UCP 的后续开发！
+
+---
+
 # ⚔️ 2025 年飞升 AI 锦标赛，正式开赛！🏆
 [meta]: <> (
 timestamp: 2025-08-06
