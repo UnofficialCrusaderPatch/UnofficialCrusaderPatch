@@ -1,3 +1,17 @@
+# UCP-Recorder ist jetzt im Shop!
+[meta]: <> (
+timestamp: 2026-09-11
+category: store
+)
+
+UCP-Recorder 0.50.3 ist im Shop für UCP 3.0.7 verfügbar! Installiert und aktiviert die Erweiterung, um Einzelspieler- und Mehrspielerpartien aufzunehmen. Eure Aufnahmen könnt ihr anschließend über den Gefechtsverlauf im Spiel ansehen. Auch Mehrspieleraufnahmen werden im Einzelspieler abgespielt.
+
+Helft uns beim Testen: Probiert verschiedene Einstellungen und Erweiterungen aus, speichert eure Partien und spielt die Aufnahmen ab. Meldet Probleme auf Discord und nennt dabei eure Recorder-Version, die aktiven Erweiterungen und die Schritte, mit denen sich der Fehler nachstellen lässt.
+
+Ihr möchtet helfen, das Spiel besser zu verstehen und zu verbessern? Beiträge zu [OpenSHC](https://github.com/sourcehold/OpenSHC) unterstützen das Team und die zukünftige Arbeit an UCP.
+
+---
+
 # ⚔️ Ankündigung des Ascension KI-Turniers 2025! 🏆
 [meta]: <> (
 timestamp: 2025-08-06
